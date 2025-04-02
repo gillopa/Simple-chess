@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Курсы JavaScript\\.nuget\\packages\\": {}
+    "C:\\Users\\agish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Курсы JavaScript\\Desktop\\chess 3.0\\chess 3.0.csproj",
+      "projectUniqueName": "d:\\desctop\\Simple-chess\\chess 3.0.csproj",
       "projectName": "chess 3.0",
-      "projectPath": "C:\\Users\\Курсы JavaScript\\Desktop\\chess 3.0\\chess 3.0.csproj",
-      "packagesPath": "C:\\Users\\Курсы JavaScript\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Курсы JavaScript\\Desktop\\chess 3.0\\obj\\",
+      "projectPath": "d:\\desctop\\Simple-chess\\chess 3.0.csproj",
+      "packagesPath": "C:\\Users\\agish\\.nuget\\packages\\",
+      "outputPath": "d:\\desctop\\Simple-chess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Курсы JavaScript\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\agish\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

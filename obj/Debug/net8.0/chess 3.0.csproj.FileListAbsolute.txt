@@ -12,3 +12,18 @@ c:\Users\Курсы JavaScript\Desktop\chess 3.0\obj\Debug\net8.0\refint\chess 3
 c:\Users\Курсы JavaScript\Desktop\chess 3.0\obj\Debug\net8.0\chess 3.0.pdb
 C:\Users\Курсы JavaScript\Desktop\chess 3.0\obj\Debug\net8.0\chess 3.0.genruntimeconfig.cache
 C:\Users\Курсы JavaScript\Desktop\chess 3.0\obj\Debug\net8.0\ref\chess 3.0.dll
+d:\desctop\Simple-chess\bin\Debug\net8.0\chess 3.0.exe
+d:\desctop\Simple-chess\bin\Debug\net8.0\chess 3.0.deps.json
+d:\desctop\Simple-chess\bin\Debug\net8.0\chess 3.0.runtimeconfig.json
+d:\desctop\Simple-chess\bin\Debug\net8.0\chess 3.0.dll
+d:\desctop\Simple-chess\bin\Debug\net8.0\chess 3.0.pdb
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.GeneratedMSBuildEditorConfig.editorconfig
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.AssemblyInfoInputs.cache
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.AssemblyInfo.cs
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.csproj.CoreCompileInputs.cache
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.sourcelink.json
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.dll
+d:\desctop\Simple-chess\obj\Debug\net8.0\refint\chess 3.0.dll
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.pdb
+d:\desctop\Simple-chess\obj\Debug\net8.0\chess 3.0.genruntimeconfig.cache
+d:\desctop\Simple-chess\obj\Debug\net8.0\ref\chess 3.0.dll

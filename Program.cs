@@ -18,7 +18,7 @@ class Program
             + $" {input.Item3?.PositionY.ToString() ?? "fatal"}");
         }
     }
-    public static Dictionary<char, int> CharSquare = new Dictionary<char, int>
+    public static Dictionary<char, int> LetterSquare = new Dictionary<char, int>
     {
         {'a',0},
         {'b',1},
@@ -35,10 +35,10 @@ class Program
             return (false, null, null);
         int firstIndex;
         int secondIndex;
-        if (CharSquare.ContainsKey(input[0]) && CharSquare.ContainsKey(input[2]) &&
+        if (LetterSquare.ContainsKey(input[0]) && LetterSquare.ContainsKey(input[2]) &&
          int.TryParse(input[1].ToString(), out firstIndex) && int.TryParse(input[3].ToString(), out secondIndex) &&
           1 <= firstIndex && firstIndex <= 8 && 1 <= secondIndex && secondIndex <= 8)
-            return (true, new PositionOnBoard(CharSquare.GetValueOrDefault(input[0]), firstIndex), new PositionOnBoard(CharSquare.GetValueOrDefault(input[2]), secondIndex));
+            return (true, new PositionOnBoard(LetterSquare.GetValueOrDefault(input[0]), firstIndex), new PositionOnBoard(LetterSquare.GetValueOrDefault(input[2]), secondIndex));
         return (false, null, null);
     }
 }
